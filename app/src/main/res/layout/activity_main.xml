@@ -8,7 +8,7 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:text="123121233123"
+        android:text="123121qweqwe233123"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
 
